@@ -1,5 +1,8 @@
 # React + Vite
 
+![image](https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/2fa34cbe-6c57-45ca-95b4-6cb648790b92)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
