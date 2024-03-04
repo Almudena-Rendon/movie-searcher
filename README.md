@@ -24,6 +24,9 @@ This application allows users to search for movies using the [OMDb API](https://
 - React
    • Custom Hooks, useCallback and useMemo have been implemented to steamline functionality.
 - Vite
+- JavaScript
+- HTML
+- CSS
 
 ## Getting Started
 
