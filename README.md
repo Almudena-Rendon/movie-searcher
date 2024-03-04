@@ -5,11 +5,11 @@
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
 </div>
 
-## Movie Search App
+# Movie Search App
 
 This application allows users to search for movies using the [OMDb API](https://www.omdbapi.com) and displays relevant information about the movies.
 
-# Live Demo
+## Live Demo
 
 https://movie-searcher-m7g2er4c1-almudena-rendon.vercel.app/
 
