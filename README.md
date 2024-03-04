@@ -5,9 +5,9 @@
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
 </div>
 
-# Movie Search App
+# Live Demo
 
-A simple movie search app built with React and Vite.
+https://movie-searcher-m7g2er4c1-almudena-rendon.vercel.app/
 
 ## Overview
 
