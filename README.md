@@ -11,7 +11,7 @@ This application allows users to search for movies using the [OMDb API](https://
 
 ## Live Demo
 
-https://movie-searcher-m7g2er4c1-almudena-rendon.vercel.app/
+https://movie-searcher-lemon.vercel.app/
 
 ## Features
 
