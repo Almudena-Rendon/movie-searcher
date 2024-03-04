@@ -1,6 +1,6 @@
 # React + Vite
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/2fa34cbe-6c57-45ca-95b4-6cb648790b92" alt="Image 1" width="600"/>
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
 </div>
