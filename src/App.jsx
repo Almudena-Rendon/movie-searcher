@@ -67,7 +67,7 @@ function App () {
     <div className='page'>
 
       <header>
-        <h1>Search for your favorite movies</h1>
+        <h1 style={{ textAlign: "center"}}>Search for your favorite movies</h1>
         <form className='form' onSubmit={handleSubmit}>
           <input
             style={{
