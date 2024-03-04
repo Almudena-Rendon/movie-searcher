@@ -22,7 +22,7 @@ https://movie-searcher-lemon.vercel.app/
 ## Tech Stack
 
 - React
-   • Custom Hooks, useCallback and useMemo have been implemented to steamline functionality.
+   - Custom Hooks, useCallback and useMemo have been implemented to steamline functionality.
 - Vite
 - JavaScript
 - HTML
