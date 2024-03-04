@@ -29,11 +29,11 @@ This application allows users to search for movies using the [OMDb API](https://
 
 1. Clone this repository.
 2. Install dependencies using `npm install`.
-3. Get an API key from [OMDb API](https://www.omdbapi.com) and replace `<YOUR_API_KEY>` in the code with your actual API key.
+3. Get an API key from [OMDb API](https://www.omdbapi.com) and replace `<API_KEY>` in the code with your actual API key.
 4. Run the app using `npm run dev`.
 
 
 ## API Key
 
-To use this app, you need an API key from [OMDb API](https://www.omdbapi.com). Replace `<YOUR_API_KEY>` in the code with your actual API key.
+To use this app, you need an API key from [OMDb API](https://www.omdbapi.com). Replace `<API_KEY>` in the code with your actual API key.
 
