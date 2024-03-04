@@ -5,9 +5,35 @@
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
 </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Movie Search App
 
-Currently, two official plugins are available:
+A simple movie search app built with React and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+This application allows users to search for movies using the [OMDb API](https://www.omdbapi.com) and displays relevant information about the movies.
+
+## Features
+
+- Search for movies by title
+- View detailed information about each movie
+- Order search results by title
+
+## Tech Stack
+
+- React
+   • Custom Hooks, useCallback and useMemo have been implemented to steamline functionality.
+- Vite
+
+## Getting Started
+
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Get an API key from [OMDb API](https://www.omdbapi.com) and replace `<YOUR_API_KEY>` in the code with your actual API key.
+4. Run the app using `npm run dev`.
+
+
+## API Key
+
+To use this app, you need an API key from [OMDb API](https://www.omdbapi.com). Replace `<YOUR_API_KEY>` in the code with your actual API key.
+
