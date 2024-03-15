@@ -1,11 +1,11 @@
-# React + Vite
+# Movie Search App
 
 <div align="center">
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/2fa34cbe-6c57-45ca-95b4-6cb648790b92" alt="Image 1" width="600"/>
   <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
 </div>
 
-# Movie Search App
+## Description
 
 This application allows users to search for movies using the [OMDb API](https://www.omdbapi.com) and displays relevant information about the movies.
 
