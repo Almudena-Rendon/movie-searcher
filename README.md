@@ -1,8 +1,7 @@
 # Movie Search App
 
 <div align="center">
-  <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/2fa34cbe-6c57-45ca-95b4-6cb648790b92" alt="Image 1" width="600"/>
-  <img src="https://github.com/Almudena-Rendon/movie-searcher/assets/126793941/1bf6932c-233e-4076-9237-8060d99c7b58" alt="Image 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8e964a37-f1c9-45b6-a516-52e0a95f5af7" alt="Image 1" />
 </div>
 
 ## Description
